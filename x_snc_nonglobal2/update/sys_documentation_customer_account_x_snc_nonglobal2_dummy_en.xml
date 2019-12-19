@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_snc_nonglobal2_dummy" label="dummy" language="en" table="customer_account">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_snc_nonglobal2_dummy</element>
+            <help/>
+            <hint/>
+            <label>dummy</label>
+            <language>en</language>
+            <name>customer_account</name>
+            <plural>dummys</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>matt.wilkofsky@snc</sys_created_by>
+            <sys_created_on>2019-12-19 16:34:23</sys_created_on>
+            <sys_id>63b88cce1b7500103e34fc468d4bcb50</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>dummy</sys_name>
+            <sys_package display_value="nonglobal2" source="x_snc_nonglobal2">af67088e1b7500103e34fc468d4bcbc7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="nonglobal2">af67088e1b7500103e34fc468d4bcbc7</sys_scope>
+            <sys_update_name>sys_documentation_customer_account_x_snc_nonglobal2_dummy_en</sys_update_name>
+            <sys_updated_by>matt.wilkofsky@snc</sys_updated_by>
+            <sys_updated_on>2019-12-19 16:34:23</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

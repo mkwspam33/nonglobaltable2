@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="core_company" label="Account" max_length="40" name="customer_account" text_index="true" type="collection">
+        <element label="dummy" max_length="40" name="x_snc_nonglobal2_dummy" type="string"/>
+    </element>
+</database>
